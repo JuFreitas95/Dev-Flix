@@ -1,0 +1,10 @@
+httpsdeveloper.themoviedb.orgreferencemovie-popular-list
+
+https://www.themoviedb.org/settings/api
+
+https://developer.themoviedb.org/docs/image-basics
+
+CTRL + F - PESQUISA
+
+
+https://api.themoviedb.org/3/tv/top_rated 
