@@ -1,0 +1,23 @@
+    {/* <h1>Filmes</h1> 
+
+                 <div className="movie-list">
+                        {movies.map(movie => (
+                            <MovieCard key={movie.id}>
+                                <img src={getImages(movie.poster_path)} alt={movie.title} />
+                                <h3>{movie.title}</h3>
+                            </MovieCard>
+                        ))}
+                    </div> 
+
+                    <h2></h2> */}
+                    {/* 
+                     <div className="movie-recomendation">
+                        {movieRecommendation.map(movie => (
+                            <MovieCard key={movie.id}>
+                                <img src={getImages(movie.poster_path)} alt={movie.title} />
+                                <h3>{movie.title}</h3>
+                            </MovieCard>
+                        ))}
+                    </div>   */}
+
+background image="https://image.tmdb.org/t/p/original/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg"

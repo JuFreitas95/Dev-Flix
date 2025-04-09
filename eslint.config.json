@@ -1,0 +1,13 @@
+
+
+{
+  "files": ["**/*.{js,mjs,cjs,jsx}"],
+  "languageOptions": {
+    "globals": {
+      "browser": true
+    }
+  },
+  "extends": [
+    "plugin:react/recommended"
+  ]
+}
