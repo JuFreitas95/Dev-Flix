@@ -18,15 +18,14 @@ API externa (filmes/séries)
 ✔️ Consumo de API
 ✔️ Renderização dinâmica de conteúdo
 ✔️ Interface inspirada em streaming
-🖥️ Preview
 
-(coloca print aqui ou link do deploy)
 
 📌 Melhorias futuras
 🔄 Adicionar busca de filmes
 ⭐ Sistema de favoritos
 🎯 Filtros por categoria
 🔐 Autenticação de usuários
+
 📈 Aprendizados
 Integração com APIs
 Manipulação de DOM
