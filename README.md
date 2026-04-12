@@ -2,7 +2,7 @@
 
 Aplicação web inspirada em plataformas de streaming, desenvolvida com foco em consumo de API e exibição dinâmica de conteúdos.
 
-Acesse o site : [](https://devflix-app.vercel.app/)
+🔗 Acesse o site: https://devflix-app.vercel.app/
 
 🧠 Sobre o projeto
 
